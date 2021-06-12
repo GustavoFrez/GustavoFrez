@@ -5,7 +5,7 @@
 * Tecnologia
 * Programação
 * Viagens
-* Coffe
+* Coffee
 * Livros
 * Séries 
 
