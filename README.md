@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/gustavofrez/" target="_blank">
 <img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 style="max-widht:100%;">
-</a>  Gustavo Frez 
+</a> Gustavo Frez 
 
 
 ## **Hard Skills** :computer:
@@ -35,11 +35,15 @@ style="max-widht:100%;">
 
 <a href="#">
 <img aling="center" alt="JS" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-style="max-widht:100%;">   
+style="max-widht:100%;"> 
+   
+<a href="#">
+<img aling="center" alt="GIT" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+style="max-widht:100%;">     
    
 <a href="#">
 <img aling="center" alt="Bootstrap" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
-style="max-widht:100%;">     
+style="max-widht:100%;">
       
 <a href="#">
 <img aling="center" alt="Photoshop" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
