@@ -1,11 +1,25 @@
-###  - Hello World :earth_americas:
+## **Sobre mim** :nerd_face:
+
+#### - Apaixonado por :orange_heart:
+
+* Tecnologia
+* Programação
+* Viagens
+* Coffe
+* Livros
+* Séries 
+
+--> Graduando em Sistema para Internet 4º semestre - Unisul <br>
+--> Estudante Desenvolvimento Web Full Stack Jr - Resilia <br>
+--> Ingês Intermediário <br>
+
+## **Contato** :nerd_face:
 
 
-### Sobre mim :nerd_face:
 
-####  Apaixonado por
 
-Graduando em Sistema para Internet 4º semestre
+
+   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUstavoFrez&show_icons=true&theme=tokyonight)
 
