@@ -1,6 +1,6 @@
 ## **Sobre mim** :nerd_face:
 
-#### - Apaixonado por :orange_heart:
+### - Apaixonado por :orange_heart:
 
 * Tecnologia
 * Programação
@@ -9,11 +9,28 @@
 * Livros
 * Séries 
 
---> Graduando em Sistema para Internet 4º semestre - Unisul <br>
---> Estudante Desenvolvimento Web Full Stack Jr - Resilia <br>
---> Ingês Intermediário <br>
+### - Estudando atualmente :books:
 
-## **Contato** :nerd_face:
+* Graduando em Sistema para Internet 4º semestre - Unisul <br>
+* Estudante Desenvolvimento Web Full Stack Jr - Resilia <br>
+* Inglês Intermediário <br>
+
+## **Contato** :calling:
+
+<a href="https://www.linkedin.com/in/gustavofrez/" target='_blank'>
+<img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+style="max-widht:100%">
+</a>  Gustavo Frez 
+
+
+## **Skills** :computer:
+
+<a href="https://www.linkedin.com/in/gustavofrez/" target='_blank'>
+<img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+style="max-widht:100%">
+</a>  Gustavo Frez  <br> <br>
+
+
 
 
 
