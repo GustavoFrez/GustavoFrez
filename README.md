@@ -78,9 +78,9 @@ style="max-widht:100%;">
 * Scrum <br> 
 * Kanban <br> 
 * Comunicação não violenta <br>   
-* Inteligência Emocional <br>  
+* Inteligência emocional <br>  
 * Aprender a aprender <br> 
-* Resoluções de Problemas<br>      
+* Resoluções de problemas<br>      
 * Resiliência  <br>  
 * Empatia <br>
 * Trabalho em equipe <br>
