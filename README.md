@@ -74,11 +74,13 @@ style="max-widht:100%;">
    
  ## **Soft Skills** :brain:
 
-* Métodos Ágeis <br>
+* Metodologias Ágeis <br>
 * Scrum <br> 
 * Kanban <br> 
 * Comunicação não violenta <br>   
 * Inteligência Emocional <br>  
+* Aprender a aprender <br> 
+* Resoluções de Problemas<br>      
 * Resiliência  <br>  
 * Empatia <br>
 * Trabalho em equipe <br>
