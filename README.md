@@ -2,12 +2,7 @@
 
 ### - Apaixonado por :orange_heart:
 
-* Tecnologia
-* Programação
-* Viagens
-* Coffee
-* Livros
-* Séries 
+Tecnologia | Programação | Viagens | Coffee | Livros | Séries 
 
 ### - Estudando atualmente :books:
 
@@ -74,20 +69,12 @@ style="max-widht:100%;">
    
  ## **Soft Skills** :brain:
 
-* Metodologias Ágeis <br>
-* Scrum <br> 
-* Kanban <br> 
-* Comunicação não violenta <br>   
-* Inteligência emocional <br>  
-* Aprender a aprender <br> 
-* Resoluções de problemas<br>      
-* Resiliência  <br>  
-* Empatia <br>
-* Trabalho em equipe <br>
-* Gestão do tempo <br>
-<br>   
+Metodologias Ágeis | Scrum | Kanban | Comunicação não violenta | Inteligência emocional | Gestão do tempo | 
+Aprender a aprender | Resoluções de problemas | Resiliência | Empatia |  Trabalho em equipe |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUstavoFrez&show_icons=true&theme=tokyonight) <br> <br> 
+   <br>
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUstavoFrez&show_icons=true&theme=tokyonight) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?)
 
