@@ -58,13 +58,10 @@ style="max-widht:100%;">
 <img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
 style="max-widht:100%;">   
 
-## **I will Learn** :computer:
-
 <a href="#">
 <img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-style="max-widht:100%;">     
+style="max-widht:100%;">   
 
-   
  ## **Soft Skills** :brain:
 
 Metodologias Ágeis | Scrum | Kanban | Comunicação não violenta | Inteligência emocional | Gestão do tempo | 
