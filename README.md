@@ -44,23 +44,21 @@ style="max-widht:100%;">
 <img aling="center" alt="Photoshop" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
 style="max-widht:100%;">  
    
-   
-## **Learning** :computer:
-
 <a href="#">
 <img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
 style="max-widht:100%;">   
 
 <a href="#">
 <img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-style="max-widht:100%;">  
+style="max-widht:100%;">     
    
-
-## **I will Learn** :computer:
+## **Learning** :computer:
 
 <a href="#">
 <img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
 style="max-widht:100%;">   
+
+## **I will Learn** :computer:
 
 <a href="#">
 <img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
