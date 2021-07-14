@@ -12,7 +12,7 @@ Tecnologia | Programação | Viagens | Coffee | Livros | Séries
 
 ## **Contato** :calling:
 
-<a href="https://www.linkedin.com/in/gustavofrez/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-web-front-end/" target="_blank">
 <img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 style="max-widht:100%;">
 </a> Gustavo Frez 
