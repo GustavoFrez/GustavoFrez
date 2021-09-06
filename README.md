@@ -4,10 +4,14 @@
 
 Tecnologia | Programação | Viagens | Coffee | Livros | Séries 
 
+### - Formação :books:
+
+* Desenvolvimento Web Full Stack Jr - Resilia <br>
+
 ### - Estudando atualmente :books:
 
 * Graduação em Sistema para Internet 4º semestre - Unisul <br>
-* Desenvolvimento Web Full Stack Jr - Resilia <br>
+
 * Inglês Intermediário <br>
 
 ## **Contato** :calling:
