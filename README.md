@@ -1,6 +1,6 @@
 
 
-## Gustavo Frez, Desenvolvedor Front-End Jr
+## Desenvolvedor Front-End Jr
 
 <div align="center">
   <a href="https://github.com/GustavoFrez">
@@ -18,8 +18,6 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
 
 </div>
 
@@ -43,21 +41,24 @@ style="max-widht:100%;">
 <a href="#">
 <img aling="center" alt="Photoshop" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
 style="max-widht:100%;">  
- 
-  
-  
 
+<br>
   
-<a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-web-front-end/" target="_blank">
-<img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-style="max-widht:100%;">
-</a> Gustavo Frez 
  
 
  ## **Soft Skills** :brain:
 
 Metodologias Ágeis | Scrum | Kanban | Comunicação não violenta | Inteligência emocional | Gestão do tempo | 
 Aprender a aprender | Resoluções de problemas | Resiliência | Empatia |  Trabalho em equipe |
+
+<br>
+  
+## **Contato** 📱: 
+ 
+<a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-web-front-end/" target="_blank">
+<img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+style="max-widht:100%;">
+</a> Gustavo Frez 
 
 
 
