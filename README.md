@@ -1,11 +1,13 @@
 
-### - Estudando atualmente :books:
 
-* Graduação em Sistema para Internet 4º semestre - Unisul <br>
+## Gustavo Frez, Desenvolvedor Front-End Jr
 
-* Inglês Intermediário <br>
+<div align="center">
+  <a href="https://github.com/GustavoFrez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFrez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFRez&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-## **Contato** :calling:
 
 <a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-web-front-end/" target="_blank">
 <img aling="center" alt="GustavoFrez-Linkedin" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
@@ -46,9 +48,6 @@ style="max-widht:100%;">
 Metodologias Ágeis | Scrum | Kanban | Comunicação não violenta | Inteligência emocional | Gestão do tempo | 
 Aprender a aprender | Resoluções de problemas | Resiliência | Empatia |  Trabalho em equipe |
 
-   <br>
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUstavoFrez&show_icons=true&theme=tokyonight) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?)
+
 
