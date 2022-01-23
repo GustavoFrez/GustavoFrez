@@ -1,12 +1,3 @@
-## **Sobre mim** :nerd_face:
-
-### - Apaixonado por :orange_heart:
-
-Tecnologia | Programação | Viagens | Coffee | Livros | Séries 
-
-### - Formação :books:
-
-* Desenvolvimento Web Full Stack Jr - Resilia <br>
 
 ### - Estudando atualmente :books:
 
@@ -47,24 +38,8 @@ style="max-widht:100%;">
 <a href="#">
 <img aling="center" alt="Photoshop" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
 style="max-widht:100%;">  
-   
-<a href="#">
-<img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-style="max-widht:100%;">   
-
-<a href="#">
-<img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-style="max-widht:100%;">     
-   
-## **Learning** :computer:
-
-<a href="#">
-<img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-style="max-widht:100%;">   
-
-<a href="#">
-<img aling="center" alt="Mysql" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-style="max-widht:100%;">   
+ 
+ 
 
  ## **Soft Skills** :brain:
 
