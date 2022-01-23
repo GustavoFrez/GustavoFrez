@@ -30,19 +30,13 @@
 
 Metodologias Ágeis | Scrum | Kanban | Comunicação não violenta | Inteligência emocional | Gestão do tempo | 
 Aprender a aprender | Resoluções de problemas | Resiliência | Empatia |  Trabalho em equipe |
-
-<br>
   
 ## **Contato** 📱: 
   
 <div> 
-
+ <a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-web-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavo_frez@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-web-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
+ <a href = "mailto:gustavofrez86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 
