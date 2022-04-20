@@ -2,6 +2,8 @@
 
 ## Desenvolvedor Front-End Jr
 
+- Graduando em Sistemas para Internet 4º período
+- Inglês Intermediário
 
 ## **Hard Skills** :computer: 
 <div style="display: inline_block"><br>
