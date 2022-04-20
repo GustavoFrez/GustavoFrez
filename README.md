@@ -22,7 +22,7 @@
 
 ## **Soft Skills** :brain:
 
-Metodologias Ágeis | Scrum | Kanban | Comunicação não violenta | Inteligência emocional | Gestão do tempo | 
+Metodologias Ágeis | Scrum | Kanban | Inteligência emocional | Gestão do tempo | 
 Aprender a aprender | Resoluções de problemas | Resiliência | Empatia |  Trabalho em equipe |
   
 ## **Contato** 📱: 
