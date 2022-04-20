@@ -2,13 +2,6 @@
 
 ## Desenvolvedor Front-End Jr
 
-<div align="center">
-  <a href="https://github.com/GustavoFrez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFrez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFRez&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br>
 
 ## **Hard Skills** :computer: 
 <div style="display: inline_block"><br>
