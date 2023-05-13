@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Front-End Jr
 
-- Graduando em Sistemas para Internet 5º período
+- Graduado Sistemas para Internet
 - Inglês Intermediário
 
 ## **Hard Skills** :computer: 
