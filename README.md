@@ -1,6 +1,6 @@
 
 
-## Desenvolvedor Front-End Jr
+## Desenvolvedor Front-End Pleno
 
 - Graduado em Sistemas para Internet
 - Inglês Intermediário
@@ -25,7 +25,7 @@
 ## **Contato** 📱: 
   
 <div> 
- <a href="https://www.linkedin.com/in/gustavofrez-desenvolvedor-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="www.linkedin.com/in/gustavofrez-front-end-react/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 
